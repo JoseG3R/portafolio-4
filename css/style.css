@@ -1,0 +1,64 @@
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 2;
+}
+body{
+    background-color: #eee;
+}
+
+.container{
+    background-color: rgb(255,255,255);
+    border-radius: 1em;
+    width: 64em;
+    margin: 2em auto;
+    text-align: center;
+    padding-bottom:1em ;
+    box-shadow: 3px 5px 10px gray;
+    
+}
+
+.first{
+   
+}
+
+.text{
+    margin: 2em;
+}
+.container__img{
+
+}
+.img_col{
+    border-radius: 1em 1em 0 0;
+    width: 100%;
+}
+.scs{
+   width: 80%; 
+}
+
+button{
+    padding: 0.5em;
+    border: none;
+    border-radius: .3em;
+    background: #2e7bc3;
+    font: bold;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.black{
+    color:black;
+}
+
+span{
+    font-weight: bold;
+}
+
+.subtitulo{
+    font-weight: bold;
+}
+.nada{
+    padding-bottom: 1em;
+}
